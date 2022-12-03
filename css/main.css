@@ -1,0 +1,15 @@
+label {
+  text-transform: uppercase;
+  padding: 10px;
+}
+button {
+  background-color: rgb(224, 94, 94);
+}
+.add {
+  background-color: rgb(107, 224, 94);
+}
+.btn {
+  padding: 5px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
